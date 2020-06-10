@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9a94a1b7d4eb605131e",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "age": 40,
+      "name": "Strelka Anderson",
+      "email": "strelka@strelka.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9a939bbad67b304814f",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "age": 24,
+      "name": " Salsa Ghruh",
+      "email": "salsa@noadmin.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9a939bb67b304814f",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=7",
+      "age": 24,
+      "name": " Zlo kuche",
+      "email": "kuche@zlo.com",
+      "password": 12345
+    },
+    {
+      "id": "5ea2b9a939bb67b804814f",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=7",
+      "age": 21,
+      "name": " Magi Admin",
+      "email": "magi@magi.com",
+      "password": 12345
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Да разходя котката",
+      "content": "Понеделник и Петък клетата животинка трябва да бъде разхождана в близкия парк.",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Strelka Anderson",
+      "date": "2020-06-03T19:43:32.319Z",
+      "rating": "1",
+      "id": 1,
+      "status": "Active"
+    },
+    {
+      "title": "Да започна диета",
+      "content": "Това е много добра инициатива , но за съжаление едвали някога ще се случи xD",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Strelka Anderson",
+      "date": "2020-06-03T19:43:44.615Z",
+      "rating": "10",
+      "id": 2,
+      "status": "Pending"
+    },
+    {
+      "title": "Да се науча да готвя",
+      "content": "За целта ще са ми нужни около 10 готварски книги + 488 часа разговор с баба.",
+      "authorId": "5ea2b9a939bbad67b304814f",
+      "authorName": " Salsa Ghruh",
+      "date": "2020-06-03T21:18:22.663Z",
+      "rating": "9",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "title": "Да спестявам пари",
+      "content": "Тази задача е почти толкова невъзможно колкото и диетата <3",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Strelka Anderson",
+      "date": "2020-06-03T22:04:35.598Z",
+      "rating": "10",
+      "id": 4,
+      "status": "Active"
+    },
+    {
+      "title": "Да си купя мини куче",
+      "content": "Желаната от  мен порода  е супер мини дългокосместо чихуахуа на име Джерелайла , накратко Джесика !",
+      "authorId": "5ea2b9a939bbad67b304814f",
+      "authorName": " Salsa Ghruh",
+      "date": "2020-06-09T18:20:22.622Z",
+      "rating": "2",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "title": "Да си взема изпитите",
+      "content": "На път съм да изпълня тази задача. Остава Господ да е с мен в този труден за особата ми момент !",
+      "authorId": "5ea2b9a939bbad67b304814f",
+      "authorName": " Salsa Ghruh",
+      "date": "2020-06-09T18:35:45.843Z",
+      "rating": "10",
+      "id": 6,
+      "status": "Done"
+    },
+    {
+      "title": "Да си купя нова кола",
+      "content": "По възможност да е малка , икономична и симпатична. Да се вмества в мизерния ми бюджет от трицифрена сума !",
+      "authorId": "5ea2b9a939bb67b304814f",
+      "authorName": " Zlo kuche",
+      "date": "2020-06-09T19:02:29.786Z",
+      "rating": "8",
+      "id": 7,
+      "status": "Active"
+    },
+    {
+      "title": "Да се наспя",
+      "content": "Един единствен ден в живота ми поне да се наспя. Продължително и отпочиващо, просто да се наспя !",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Strelka Anderson",
+      "date": "2020-06-09T19:21:56.063Z",
+      "rating": "9",
+      "id": 8
+    }
+  ]
+}

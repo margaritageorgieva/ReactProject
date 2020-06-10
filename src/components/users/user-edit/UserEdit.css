@@ -1,0 +1,28 @@
+.user-edit-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.user-edit-form {
+    width: 500px;
+    border: 3px solid rgb(52, 58, 64);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
+    background-color: rgb(230, 230, 230);
+    filter: drop-shadow(8px 8px 5px) #000;
+    -webkit-filter: drop-shadow(8px 8px 5px);
+    
+}
+#email,#name,#age,#password{
+    border: none;
+    border-bottom: 2px solid rgb(25, 181, 254);
+    padding: 5px;
+    
+}
+#savebtn{
+    background-color: rgb(25, 181, 254);
+}

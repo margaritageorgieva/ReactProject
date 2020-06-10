@@ -1,0 +1,27 @@
+
+.users-list{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    margin: auto;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    background: rgb(239,242,242);
+    background: linear-gradient(0deg, rgba(239,242,242,1) 0%, rgba(212,201,196,1) 69%, rgba(190,185,183,1) 94%, rgba(182,177,174,1) 100%);
+}
+#upic{
+    filter: drop-shadow(8px 8px 5px) #000;
+    -webkit-filter: drop-shadow(6px 5px 5px);
+}
